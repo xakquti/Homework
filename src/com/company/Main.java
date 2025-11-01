@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();
-        // Рацинальная дробь
+        // Рациональная дробь
         NDrob frac1 = new NDrob();
         NDrob frac2 = new NDrob();
 
